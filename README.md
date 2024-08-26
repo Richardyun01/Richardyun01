@@ -20,3 +20,8 @@
 - [Spring Framework](https://spring.io/)
 - [Unity Game Engine](https://unity.com/)
 - [React.js](https://react.dev/)
+
+## Main Works
+- [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
+- [TTS08](https://github.com/SE01-TeamProject/TTS08) (Issue Tracking Program)
+- [2D-Platformer](https://github.com/CIEN-2024-Team5/2D-Platformer) (Unity Platformer Game)
