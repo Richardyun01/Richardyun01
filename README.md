@@ -1,20 +1,22 @@
-<!--
-### Hi there 👋
-**Richardyun01/Richardyun01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Richardyun01)](https://solved.ac/Richardyun01/)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardyun01)
+
+<div align=left>
+  
+## Available Languages
+- C
+- C++
+- C# (Partial)
+- Java
+- Javascript
+
+## Available Tools
+- [Spring Framework](https://spring.io/)
+- [Unity Game Engine](https://unity.com/)
+- [React.js](https://react.dev/)
