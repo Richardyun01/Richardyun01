@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+### Hi there 👋
 **Richardyun01/Richardyun01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Richardyun01)](https://solved.ac/Richardyun01/)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardyun01)
