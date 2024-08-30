@@ -23,6 +23,6 @@
 
 ## Main Works
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
-- [Arkanoid](https://github.com/Richardyun01/Arkanoid) (OpenGL 2D Game)
+- [Bong's Dungeon](https://github.com/Richardyun01/Bong-Dungeon) (SDL-libtcod Roguelike Game)
 - [TTS08](https://github.com/SE01-TeamProject/TTS08) (Issue Tracking Program/Team)
 - [2D-Platformer](https://github.com/Richardyun01/2D-Platformer) (Unity Platformer Game/Team)
