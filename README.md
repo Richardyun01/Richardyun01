@@ -24,5 +24,5 @@
 ## Main Works
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
 - [Arkanoid](https://github.com/Richardyun01/Arkanoid) (OpenGL 2D Game)
-- [TTS08](https://github.com/SE01-TeamProject/TTS08) (Issue Tracking Program)
-- [2D-Platformer](https://github.com/CIEN-2024-Team5/2D-Platformer) (Unity Platformer Game)
+- [TTS08](https://github.com/SE01-TeamProject/TTS08) (Issue Tracking Program/Team)
+- [2D-Platformer](https://github.com/Richardyun01/2D-Platformer) (Unity Platformer Game/Team)
