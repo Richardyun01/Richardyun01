@@ -26,3 +26,4 @@
 - [Bong's Dungeon](https://github.com/Richardyun01/Bong-Dungeon) (SDL-libtcod Roguelike Game)
 - [TTS08](https://github.com/SE01-TeamProject/TTS08) (Issue Tracking Program/Team)
 - [2D-Platformer](https://github.com/Richardyun01/2D-Platformer) (Unity Platformer Game/Team)
+- [Capstone 2024 Frontend](https://github.com/Capstone-2024-yh/Front-end) (React.js Frontend/Team)
