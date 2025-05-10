@@ -15,7 +15,8 @@
 - C# (Partial)
 - Java
 - Javascript
-- Dart (Studying)
+- Dart (Partial)
+- Python
 
 ## Available Tools
 - [Spring Framework](https://spring.io/)
