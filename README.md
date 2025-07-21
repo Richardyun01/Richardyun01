@@ -24,6 +24,7 @@
 - [React.js](https://react.dev/)
 - [Vue.js](https://vuejs.org/)
 - [Flutter](https://flutter.dev/)
+- [PyTorch](https://pytorch.org/)
 
 ## Main Works
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
@@ -31,6 +32,7 @@
 - [TTS08 Backend](https://github.com/SE01-TeamProject/TTS08) (Issue Tracking Program/Team)
 - [2D-Platformer](https://github.com/Richardyun01/2D-Platformer) (Unity Platformer Game/Team)
 - [Capstone 2024 Frontend](https://github.com/Capstone-2024-yh/Front-end) (React.js Frontend/Team)
+- [Capstone 2025 Machine Learning](https://github.com/2025-Capstone-2/backend) (PyTorch Machine Learning/Team)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Richardyun01&theme=flat&no-frame=true&no-bg=false&margin-w=4)
