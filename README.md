@@ -15,7 +15,7 @@
 - C# (Partial)
 - Java
 - Javascript
-- Dart (Partial)
+- Dart (Only study)
 - Python
 
 ## Available Tools
