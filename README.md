@@ -15,7 +15,7 @@
 - C# (Partial)
 - Java
 - Javascript
-- Dart (Only study)
+- ~~Dart (Only study)~~
 - Python
 
 ## Available Tools
@@ -23,7 +23,7 @@
 - [Unity Game Engine](https://unity.com/)
 - [React.js](https://react.dev/)
 - [Vue.js](https://vuejs.org/)
-- [Flutter](https://flutter.dev/)
+- ~~[Flutter](https://flutter.dev/)~~
 - [PyTorch](https://pytorch.org/)
 
 ## Main Works
