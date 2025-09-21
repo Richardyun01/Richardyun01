@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Profile
+## 🪪 Profile
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Richardyun01)](https://solved.ac/Richardyun01/)
@@ -9,7 +9,7 @@
 
 <div align=left>
   
-## Available Languages
+## 💻 Available Languages
 - C
 - C++
 - C# (Partial)
@@ -18,7 +18,7 @@
 - ~~Dart (Only study)~~
 - Python
 
-## Available Tools
+## 🧰 Available Tools
 - [Spring Framework](https://spring.io/)
 - [Unity Game Engine](https://unity.com/)
 - [React.js](https://react.dev/)
@@ -27,7 +27,7 @@
 - [PyTorch](https://pytorch.org/)
 - [Wireshark](https://www.wireshark.org/)
 
-## Main Works
+## 📄 Main Works
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
 - [Bong's Dungeon](https://github.com/Richardyun01/Bong-Dungeon) [[Docs](https://github.com/Richardyun01/Bong-Dungeon/blob/main/Project%20Report.pdf)/[PPT](https://github.com/Richardyun01/Bong-Dungeon/blob/main/OOP%20presentation.pdf)] (SDL-libtcod Roguelike Game)
 - [TTS08 Backend](https://github.com/SE01-TeamProject/TTS08) [[Docs](https://github.com/SE01-TeamProject/TTS08/blob/main/%5B8%EC%A1%B0%5D%20%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)/[PPT](https://github.com/SE01-TeamProject/TTS08/blob/main/%EC%9D%B4%EC%8A%88%20%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20PPT.pdf)] (Issue Tracking Program/Team)
@@ -38,8 +38,10 @@
 - [Capstone 2025 Machine Learning](https://github.com/orgs/2025-Capstone-2/repositories) [[Docs](https://github.com/2025-Capstone-2/Documents/blob/main/2025-1%20%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)/[PPT](https://github.com/2025-Capstone-2/Documents/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)] (PyTorch Machine Learning/Team)
 - [LG Aimers Hackerton](https://github.com/Richardyun01/LG-Aimers-Hackerton) [[Docs](https://github.com/Richardyun01/LG-Aimers-Hackerton/blob/main/docs.pdf)] (PyTorch Machine Learning/Team)
 
+## ✏️ [Code Problems](https://github.com/Richardyun01/Code-Snippet)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Richardyun01&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
