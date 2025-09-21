@@ -17,6 +17,7 @@
 - Javascript
 - ~~Dart (Only study)~~
 - Python
+- Shell (Studying since 2025.09)
 
 ## 🧰 Available Tools
 - [Spring Framework](https://spring.io/)
@@ -26,6 +27,7 @@
 - ~~[Flutter](https://flutter.dev/)~~
 - [PyTorch](https://pytorch.org/)
 - [Wireshark](https://www.wireshark.org/)
+- [Ubuntu 20.04.6 LTS](https://releases.ubuntu.com/focal/) (Studying since 2025.09)
 
 ## 📄 Main Works
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
