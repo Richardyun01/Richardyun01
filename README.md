@@ -40,7 +40,9 @@
 - [Capstone 2025 Machine Learning](https://github.com/orgs/2025-Capstone-2/repositories) [[Docs](https://github.com/2025-Capstone-2/Documents/blob/main/2025-1%20%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)/[PPT](https://github.com/2025-Capstone-2/Documents/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)] (PyTorch Machine Learning/Team)
 - [LG Aimers Hackerton](https://github.com/Richardyun01/LG-Aimers-Hackerton) [[Docs](https://github.com/Richardyun01/LG-Aimers-Hackerton/blob/main/docs.pdf)] (PyTorch Machine Learning/Team)
 
-## ✏️ [Code Problems](https://github.com/Richardyun01/Code-Snippet)
+## ✏️ Code Snippets
+- [Code Problems](https://github.com/Richardyun01/Code-Problems)
+- [Important Code Problems](https://github.com/Richardyun01/Important-Code-Problems)
 
 ## 📄 [Paper Reviews](https://github.com/Richardyun01/Paper-Reviews)
 
