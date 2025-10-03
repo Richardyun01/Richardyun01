@@ -27,7 +27,7 @@
 - ~~[Flutter](https://flutter.dev/)~~
 - [PyTorch](https://pytorch.org/)
 - [Wireshark](https://www.wireshark.org/)
-- [Git](https://git-scm.com/)
+- [Git](https://git-scm.com/) + [Markdown](https://github.github.com/gfm/)
 - [Ubuntu 20.04.6 LTS](https://releases.ubuntu.com/focal/) (Studying since 2025.09)
 
 ## 👨🏻‍💻 Main Works
