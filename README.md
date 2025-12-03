@@ -40,6 +40,8 @@
 - [Simple Database](https://github.com/Richardyun01/Database-Project) [[Docs](https://github.com/Richardyun01/Database-Project/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84%20Part2.pdf)] (Java+MySQL)
 - [Capstone 2025 Machine Learning](https://github.com/orgs/2025-Capstone-2/repositories) [[Docs](https://github.com/2025-Capstone-2/Documents/blob/main/2025-1%20%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)/[PPT](https://github.com/2025-Capstone-2/Documents/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)] (PyTorch Machine Learning/Team)
 - [LG Aimers Hackerton](https://github.com/Richardyun01/LG-Aimers-Hackerton) [[Docs](https://github.com/Richardyun01/LG-Aimers-Hackerton/blob/main/docs.pdf)] (PyTorch Machine Learning/Team)
+- [3D Retro FPS](https://github.com/2025-Game-Proj/Retro-FPS) [[PPT](https://github.com/2025-Game-Proj/Retro-FPS/blob/main/Critical-Assault-Unit.pdf)] (Unity Platformer Game/Team)
+- [ML Kaggle Challenges](https://github.com/orgs/2025-ML-proj2/repositories) [[LLM](https://github.com/2025-ML-proj2/MLP_proj2_Fall_2025/blob/main/Papers%20for%20Github.pdf)][[Market](https://github.com/2025-ML-proj2/MLP_proj4_Fall_2025/blob/main/Report%20for%20Github.pdf)] (PyTorch Machine Learning/Team)
 
 ## ✏️ Code Snippets
 - [Code Problems](https://github.com/Richardyun01/Code-Problems)
