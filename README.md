@@ -23,7 +23,7 @@
 - [Spring Framework](https://spring.io/)
 - [Unity Game Engine](https://unity.com/)
 - [React.js](https://react.dev/)
-- [Vue.js](https://vuejs.org/)
+- ~~[Vue.js](https://vuejs.org/)~~
 - ~~[Flutter](https://flutter.dev/)~~
 - [PyTorch](https://pytorch.org/)
 - [Wireshark](https://www.wireshark.org/)
