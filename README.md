@@ -30,7 +30,7 @@
 - [Git](https://git-scm.com/) + [Markdown](https://github.github.com/gfm/)
 - [Ubuntu 20.04.6 LTS](https://releases.ubuntu.com/focal/) (Studying since 2025.09)
 
-## 👨🏻‍💻 Main Works
+## 👨🏻‍💻 Major Projects
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
 - [Bong's Dungeon](https://github.com/Richardyun01/Bong-Dungeon) [[Docs](https://github.com/Richardyun01/Bong-Dungeon/blob/main/Project%20Report.pdf)/[PPT](https://github.com/Richardyun01/Bong-Dungeon/blob/main/OOP%20presentation.pdf)] (SDL-libtcod Roguelike Game)
 - [TTS08 Backend](https://github.com/SE01-TeamProject/TTS08) [[Docs](https://github.com/SE01-TeamProject/TTS08/blob/main/%5B8%EC%A1%B0%5D%20%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)/[PPT](https://github.com/SE01-TeamProject/TTS08/blob/main/%EC%9D%B4%EC%8A%88%20%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20PPT.pdf)] (Issue Tracking Program/Team)
@@ -42,6 +42,8 @@
 - [LG Aimers Hackerton](https://github.com/Richardyun01/LG-Aimers-Hackerton) [[Docs](https://github.com/Richardyun01/LG-Aimers-Hackerton/blob/main/docs.pdf)] (PyTorch Machine Learning/Team)
 - [3D Retro FPS](https://github.com/2025-Game-Proj/Retro-FPS) [[PPT](https://github.com/2025-Game-Proj/Retro-FPS/blob/main/Critical-Assault-Unit.pdf)] (Unity Platformer Game/Team)
 - [ML Kaggle Challenges](https://github.com/orgs/2025-ML-proj2/repositories) [[LLM](https://github.com/2025-ML-proj2/MLP_proj2_Fall_2025/blob/main/Papers%20for%20Github.pdf)][[Market](https://github.com/2025-ML-proj2/MLP_proj4_Fall_2025/blob/main/Report%20for%20Github.pdf)] (PyTorch Machine Learning/Team)
+
+## 🛠️ [Minor Projects](https://github.com/Richardyun01/Small-Project-Collections)
 
 ## ✏️ Code Snippets
 - [Code Problems](https://github.com/Richardyun01/Code-Problems)
