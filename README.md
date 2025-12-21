@@ -2,7 +2,9 @@
 
 ## 🪪 Profile
 <div align=center>
-  
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Richardyun01)
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Richardyun01)](https://solved.ac/Richardyun01/)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardyun01)
