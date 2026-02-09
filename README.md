@@ -32,6 +32,8 @@
 - [FastAPI](https://fastapi.tiangolo.com/ko/)
 - [Git](https://git-scm.com/) + [Markdown](https://github.github.com/gfm/)
 - [Ubuntu 20.04.6 LTS](https://releases.ubuntu.com/focal/) (Studying since 2025.09)
+- [Docker](https://www.docker.com/)
+- [GitHub Actions](https://github.com/features/actions?locale=ko-KR)
 
 ## 👨🏻‍💻 Major Projects
 - [Project-R](https://github.com/Richardyun01/Project-R) (SPD Based Game/Stopped)
