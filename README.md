@@ -47,7 +47,8 @@
 - [LG Aimers Hackerton](https://github.com/Richardyun01/LG-Aimers-Hackerton) [[Docs](https://github.com/Richardyun01/LG-Aimers-Hackerton/blob/main/docs.pdf)] (PyTorch Machine Learning/Team)
 - [3D Retro FPS](https://github.com/2025-Game-Proj/Retro-FPS) [[PPT](https://github.com/2025-Game-Proj/Retro-FPS/blob/main/Critical-Assault-Unit.pdf)] (Unity Platformer Game/Team)
 - [ML Kaggle Challenges](https://github.com/orgs/2025-ML-proj2/repositories) [[LLM](https://github.com/2025-ML-proj2/MLP_proj2_Fall_2025/blob/main/Papers%20for%20Github.pdf)][[Market](https://github.com/2025-ML-proj2/MLP_proj4_Fall_2025/blob/main/Report%20for%20Github.pdf)] (PyTorch Machine Learning/Team)
-- [ASCII-Hackerton Backend](https://github.com/ASCII-CAU/backend-ascii) (FastAPI Backend/Team)
+- [ASCII-Hackerton Backend](https://github.com/ASCII-CAU/backend-ascii) [[PPT](https://github.com/ASCII-CAU/backend-ascii/blob/main/Linkcare.pdf)][[API Path](https://github.com/ASCII-CAU/backend-ascii/blob/main/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)] (FastAPI Backend/Team)
+- [T.mate Backend](https://github.com/skt-dorandoran/backend) [[PPT](https://github.com/Richardyun01/backend/blob/develop/1%ED%8C%80%EB%8F%84%EB%9E%80%EB%8F%84%EB%9E%80_%EC%B5%9C%EC%A2%85_%EC%A0%80%ED%99%94%EC%A7%88%EC%98%81%EC%83%81.pdf)] (FastAPI Backend/Team)
 
 ## 🛠️ [Minor Projects](https://github.com/Richardyun01/Small-Project-Collections)
 
