@@ -3,7 +3,7 @@
 ## 🪪 Profile
 <div align=center>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Richardyun01)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richardyun01)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Richardyun01)](https://solved.ac/Richardyun01/)
 <br>
@@ -59,7 +59,7 @@
 ## 📄 [Paper Reviews](https://github.com/Richardyun01/Paper-Reviews)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Richardyun01&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Richardyun01&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
