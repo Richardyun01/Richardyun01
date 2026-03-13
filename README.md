@@ -20,6 +20,7 @@
 - ~~Dart (Only study)~~
 - Python
 - Shell (Studying since 2025.09)
+- Kotlin
 
 ## 🧰 Available Tools
 - [Spring Framework](https://spring.io/)
